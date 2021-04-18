@@ -1,7 +1,7 @@
 /*
  * Xolani Ganta 2nd Year Project
  * Hackthon Event Registration
- * Students register on the app ,their details are then saved on a text document
+ * Students register on the app ,their details are then stored on a text document
  */
 
 package hackathoneventregistration;
